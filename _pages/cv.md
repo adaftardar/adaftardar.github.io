@@ -9,39 +9,41 @@ redirect_from:
 
 {% include base_path %}
 
+[Here's a link to my full CV]({{ base_path }}/files/cv.pdf)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Electrical and Computer Engineering, New York University, 2027 (expected)
+* M.S. in Electrical and Computer Engineering, University of Michigan, 2022
+* B.S. in Electrical Engineering, Georgia Tech, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022 - Present: Graduate Research Assistant
+  * New York University
+  * Research focus: Zero-knowledge proof acceleration, computer architecture
+  * Advisors: Brandon Reagen, Siddharth Garg, Benedikt Bünz (collaborating advisor)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020 - 2020: Graduate Student Research Assistant
+  * University of Michigan
+  * Research Focus: VLSI for Communications and Machine Learning
+  * Supervisor: David Blaauw, Hun-Seok Kim, Ronald Dreslinski (collaborating advisor)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer Architecture
+  * ASIC Design
+  * FPGA Development
+  * Performance Analysis
+* Zero-Knowledge Proofs
+  * Protocol Implementation
+  * Hardware Acceleration
+* Programming Languages
+  * Verilog/SystemVerilog
+  * Python
+  * C/C++
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -61,4 +63,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
