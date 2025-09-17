@@ -13,11 +13,11 @@ My research focuses on computer architecture and VLSI for privacy-preserving cry
 
 I received my Masters degree in Electrical and Computer Engineering at UMich in 2022, where I worked on VLSI for communications and machine learning with [David Blaauw](https://blaauw.engin.umich.edu/), [Hun-Seok Kim](https://kim.engin.umich.edu/), and [Ron Dreslinski](https://web.eecs.umich.edu/~rdreslin/). I received my Bachelors degree in Electrical Engineering from Georgia Tech in 2020 where I worked on hardware security with [Vincent Mooney](https://mooney.gatech.edu/) and software-defined radios [Matthieu Bloch](https://bloch.ece.gatech.edu/).
 
-**[Publications](/publications/)**
-**[CV](/cv/)**
+Please see above for my list of publications and my CV.
 
 News:
 
 - Sept. 2025 -- I'll be organizing the first ever ZKARCH workshop MICRO 2025 in Seoul on October 18!
 - June 2025 -- I presented our paper Need for zkSpeed at ISCA 2025 in Tokyo!!!
 - October 2024 -- I presented our paper SZKP at PACT 2024! This is my first ever 1st author paper!!!
+- March 2024 -- I served as a session chair for Computer Architecture Day at NYU
