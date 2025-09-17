@@ -7,13 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th year PhD Student in Electrical and Computer Engineering at NYU. I'm advised by Brandon Reagen, Siddharth Garg, and closely collaborate with Benedikt Bünz. I'm a member of the BAAHL and Ensure groups at NYU.
+I am a 4th year PhD Student in Electrical and Computer Engineering at NYU. I'm advised by [Brandon Reagen](https://brandonreagen.com/), [Siddharth Garg](https://engineering.nyu.edu/faculty/siddharth-garg), and closely collaborate with [Benedikt Bünz](https://cs.nyu.edu/~bb/). I'm a member of the [BAAHL](https://wp.nyu.edu/baahl/) and [Ensure](https://wp.nyu.edu/ensure_group/) groups at NYU.
 
 My research focuses on computer architecture and VLSI for privacy-preserving cryptography, primarily for Zero-Knowledge Proofs.
 
-I received my Masters degree in Electrical and Computer Engineering at UMich in 2022, where I worked on VLSI for communications and machine learning with David Blaauw, Hun-Seok Kim, and Ron Dreslinski. I received my Bachelors degree in Electrical Engineering from Georgia Tech in 2020 where I worked with Vincent Mooney and Matthieu Bloch.
+I received my Masters degree in Electrical and Computer Engineering at UMich in 2022, where I worked on VLSI for communications and machine learning with [David Blaauw](https://blaauw.engin.umich.edu/), [Hun-Seok Kim](https://kim.engin.umich.edu/), and [Ron Dreslinski](https://web.eecs.umich.edu/~rdreslin/). I received my Bachelors degree in Electrical Engineering from Georgia Tech in 2020 where I worked on hardware security with [Vincent Mooney](https://mooney.gatech.edu/) and software-defined radios [Matthieu Bloch](https://bloch.ece.gatech.edu/).
 
-You can navigate using the menu above to view:
 - **[Publications](/publications/)**
 - **[CV](/cv/)**
 
