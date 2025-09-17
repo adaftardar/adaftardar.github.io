@@ -24,10 +24,15 @@ Work experience
   * Research focus: Zero-knowledge proof acceleration, computer architecture
   * Advisors: Brandon Reagen, Siddharth Garg, Benedikt Bünz (collaborating advisor)
 
-* 2020 - 2020: Graduate Student Research Assistant
+* 2020 - 2022: Graduate Student Research Assistant
   * University of Michigan
   * Research Focus: VLSI for Communications and Machine Learning
   * Supervisor: David Blaauw, Hun-Seok Kim, Ronald Dreslinski (collaborating advisor)
+
+* 2017 - 2020: Undergraduate Research Assistant
+  * Georgia Institute of Technology
+  * Research Focus: Hardware security (cryptographic hash functions, OS security), software defined radio for automatic ML-based modulation classification
+  * Supervisor: Vincent Mooney, Matthieu Bloch
 
 Skills
 ======
