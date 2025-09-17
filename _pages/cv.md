@@ -17,7 +17,7 @@ Education
 * M.S. in Electrical and Computer Engineering, University of Michigan, 2022
 * B.S. in Electrical Engineering, Georgia Tech, 2020
 
-Work experience
+Research experience
 ======
 * 2022 - Present: Graduate Research Assistant
   * New York University
