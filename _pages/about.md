@@ -17,7 +17,9 @@ Please see above for my list of publications and my CV.
 
 News:
 
+- Nov. 2025 -- Our zkPHIRE paper (where we proposed the first programmable SumCheck accelerator) has been accepted at HPCA 2026! See you all in Sydney!
+- Oct. 2025 -- We attended MICRO 2025 in Seoul! ZKARCH had a great turnout, and our MTU paper was a Best Paper Runner Up at the HASP workshop!
 - Sept. 2025 -- I'll be organizing the first ever ZKARCH workshop MICRO 2025 in Seoul on October 18!
 - June 2025 -- I presented our paper Need for zkSpeed at ISCA 2025 in Tokyo!!!
-- October 2024 -- I presented our paper SZKP at PACT 2024! This is my first ever 1st author paper!!!
+- October 2024 -- I presented our paper SZKP at PACT 2024! This is my first 1st author paper!!!
 - March 2024 -- I served as a session chair for Computer Architecture Day at NYU

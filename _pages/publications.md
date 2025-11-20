@@ -9,12 +9,12 @@ author_profile: true
 
 * **zkPHIRE: A Programmable Accelerator for ZKPs over HIgh-degRee, Expressive Gates**  
   **Alhad Daftardar**, Jianqiao Mo, Joey Ah-kiow, Benedikt Bünz, Siddharth Garg, Brandon Reagen  
-  *arXiv preprint, 2025*  
+  *IEEE Sympoisum on High Performance Computer Architecture (HPCA), 2026*  
   [[arXiv]](https://arxiv.org/abs/2508.16738)
 
 * **MTU: The Multifunction Tree Unit in zkSpeed for Accelerating Zero-Knowledge Proofs**  
   Jianqiao Mo, **Alhad Daftardar**, Joey Ah-kiow, Kaiyue Guo, Benedikt Bünz, Siddharth Garg, Brandon Reagen  
-  *arXiv preprint, 2025*  
+  *Best Paper Runner Up, HASP Workshop at MICRO, 2025*  
   [[arXiv]](https://arxiv.org/abs/2507.16793)
 
 * **Need for zkSpeed: Accelerating HyperPlonk for Zero-Knowledge Proofs**  
