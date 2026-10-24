@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th year PhD Student in Electrical and Computer Engineering at NYU. I'm advised by [Brandon Reagen](https://brandonreagen.com/), [Siddharth Garg](https://engineering.nyu.edu/faculty/siddharth-garg), and closely collaborate with [Benedikt Bünz](https://cs.nyu.edu/~bb/). I'm a member of the [BAAHL](https://wp.nyu.edu/baahl/) and [Ensure](https://wp.nyu.edu/ensure_group/) groups at NYU.
+I am a 5th year PhD Student in Electrical and Computer Engineering at NYU. I'm advised by [Brandon Reagen](https://brandonreagen.com/), [Siddharth Garg](https://engineering.nyu.edu/faculty/siddharth-garg), and closely collaborate with [Benedikt Bünz](https://cs.nyu.edu/~bb/). I'm a member of the [BAAHL](https://wp.nyu.edu/baahl/) and [Ensure](https://wp.nyu.edu/ensure_group/) groups at NYU.
 
 My research focuses on computer architecture and VLSI for privacy-preserving cryptography, primarily for Zero-Knowledge Proofs.
 
@@ -17,9 +17,10 @@ Please see above for my list of publications and my CV.
 
 News:
 
-- Nov. 2025 -- Our zkPHIRE paper (where we proposed the first programmable SumCheck accelerator) has been accepted at HPCA 2026! See you all in Sydney!
+- Oct. 2026 -- Locus was accepted at ICCAD 2026, and zkDuel was accepted at HASP 2026! And we'll be hosting the 2nd ZKARCH workshop at MICRO! See you all in Athens!
+- Nov. 2025 -- Our zkPHIRE paper (where we proposed the first programmable SumCheck accelerator) has been accepted at HPCA 2026!
 - Oct. 2025 -- We attended MICRO 2025 in Seoul! ZKARCH had a great turnout, and our MTU paper was a Best Paper Runner Up at the HASP workshop!
-- Sept. 2025 -- I'll be organizing the first ever ZKARCH workshop MICRO 2025 in Seoul on October 18!
+- Sept. 2025 -- I'll be organizing the first ZKARCH workshop MICRO 2025 in Seoul on October 18!
 - June 2025 -- I presented our paper Need for zkSpeed at ISCA 2025 in Tokyo!!!
 - October 2024 -- I presented our paper SZKP at PACT 2024! This is my first 1st author paper!!!
 - March 2024 -- I served as a session chair for Computer Architecture Day at NYU
